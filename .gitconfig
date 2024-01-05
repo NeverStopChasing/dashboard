@@ -1,0 +1,5 @@
+[user]
+	name = Brandon Smith
+	email = boombyeyt@gmail.com
+[core]
+	sshCommand = ssh -i /home/brandonsmith/.ssh/id_rsa_weather
